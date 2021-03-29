@@ -7,3 +7,4 @@
 - **php artisan migrate (migra el repositorio de la BD)**
 - **php artisan serve (Ejecuta la aplicación en localhost:8000)**
 - **Abre en el navegador localhost:8000**
+**Prueba de commit**
